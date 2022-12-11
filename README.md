@@ -21,7 +21,7 @@ Here is the list of data structures you will find in our repository:
 
 - Linked list
 - Binary search tree
-
+- HashMap
 
 And many more! We continue to add new data structures to our repository, so be sure to check back regularly for updates.
 Thank you for choosing our data structures!
